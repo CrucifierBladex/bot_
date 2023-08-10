@@ -26,7 +26,7 @@ st.markdown(
 
 # Add logo at the top
 logo_image = "data-X-Prof.png"  # Provide the path to your logo image
-st.image(logo_image, use_container_width=True)
+st.image(logo_image, width=200)
 
 # Set a title with custom styling
 st.title("DataSciencePro Chatbot")
