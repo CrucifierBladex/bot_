@@ -25,7 +25,7 @@ st.markdown(
 )
 
 # Add logo at the top
-logo_image = "path_to_your_logo.png"  # Provide the path to your logo image
+logo_image = "data-X-Prof.png"  # Provide the path to your logo image
 st.image(logo_image, use_container_width=True)
 
 # Set a title with custom styling
